@@ -1,0 +1,11 @@
+D:\Университет\3 семестр\ADONETLESSON\ADONETLESSON\bin\Debug\ADONETLESSON.exe.config
+D:\Университет\3 семестр\ADONETLESSON\ADONETLESSON\bin\Debug\ADONETLESSON.exe
+D:\Университет\3 семестр\ADONETLESSON\ADONETLESSON\bin\Debug\ADONETLESSON.pdb
+D:\Университет\3 семестр\ADONETLESSON\ADONETLESSON\obj\Debug\ADONETLESSON.csprojAssemblyReference.cache
+D:\Университет\3 семестр\ADONETLESSON\ADONETLESSON\obj\Debug\ADONETLESSON.Form1.resources
+D:\Университет\3 семестр\ADONETLESSON\ADONETLESSON\obj\Debug\ADONETLESSON.Properties.Resources.resources
+D:\Университет\3 семестр\ADONETLESSON\ADONETLESSON\obj\Debug\ADONETLESSON.csproj.GenerateResource.cache
+D:\Университет\3 семестр\ADONETLESSON\ADONETLESSON\obj\Debug\ADONETLESSON.csproj.CoreCompileInputs.cache
+D:\Университет\3 семестр\ADONETLESSON\ADONETLESSON\obj\Debug\ADONETLESSON.exe
+D:\Университет\3 семестр\ADONETLESSON\ADONETLESSON\obj\Debug\ADONETLESSON.pdb
+D:\Университет\3 семестр\ADONETLESSON\ADONETLESSON\obj\Debug\ADONETLESSON.InsertForm.resources
